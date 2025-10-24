@@ -7,7 +7,7 @@ A modern, feature-rich web application for managing and showcasing your GitHub r
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) <!-- Add your deployed URL here -->
+[View Live Demo](https://usmanharun3mtt.netlify.app/) <!-- Add your deployed URL here -->
 
 ## ✨ Features
 
